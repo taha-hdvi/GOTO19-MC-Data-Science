@@ -17,7 +17,7 @@ Anaconda is the most popular workspace for data scientists. It manages different
 **2. Clone this repo into your local file system**
 
 ```bash
-git clone [repository url here]
+git clone 'https://github.com/taha-hdvi/GOTO19-MC-Data-Science.git'
 ```
 
 **3. Create a virtual environment**
