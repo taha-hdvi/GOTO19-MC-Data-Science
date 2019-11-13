@@ -36,7 +36,10 @@ Test if your environment is good to go
 
 ```bash
 # activate the environment
+# For Mac
 source venv/bin/activate
+# For Windows
+venv\Scripts\activate
 
 # list all the packages
 pip list 
